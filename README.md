@@ -26,6 +26,9 @@ The Human Activity Recognition System incorporates a multi-algorithm approach to
 - **Flexible Integration:**
   - The modular design facilitates the addition of new algorithms or the removal of existing ones, providing flexibility for future enhancements.
 
+### Dataset:
+The dataset used for training and evaluating the models can be found [here](https://www.kaggle.com/code/fahadmehfoooz/human-activity-recognition-with-neural-networks/input).
+
 ### Usage:
 To utilize the multi-algorithm activity recognition feature, follow these steps:
 1. Load the dataset.
